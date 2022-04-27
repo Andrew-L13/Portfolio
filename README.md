@@ -1,3 +1,3 @@
-# Como fazer strogonof de frango 😎
+# Destination for this repository is shows same of my projects and collaborations
+=================================================================================
 
-## Sejam Bem-Vindo
