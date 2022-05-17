@@ -1,0 +1,50 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.container-phone{
+    display: flex;
+    background-image: url("./img/phone_1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+    width: 300px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.phone-slider{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+}
+
+.phone-slider img{
+    position: absolute;
+    opacity: 0;
+    transition: opacity 800ms;
+}
+
+.phone-slider img.selected{
+ opacity: 1;
+}
+
+.container-box{
+    display: flex;
+    width: 300px;
+    height: 100vh;
+    background-color: aquamarine;
+}
