@@ -7,4 +7,4 @@
 		This folder contain one re-creation from instagram website, for show utility in using flex-box.
 		The content was developed in HTML, CSS, JavaScript.
 		Focus in manipulation of contents for adjust in most screens.
-		__Web responsive is future__ 🚀
+		__ Web responsive is future __ 🚀
