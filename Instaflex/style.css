@@ -49,6 +49,12 @@ body{
     background-color: inherit;
 }
 
+.box-phone{
+    display: flex;
+    max-width: 50%;
+    justify-content: center;
+}
+
 .box-flex{
     display: flex;
     max-width: 50%;
@@ -113,7 +119,7 @@ button{
 }
 
 @media (max-width: 650px){
-    .bg{
+    .box-phone{
         display: none;
     }
 }
