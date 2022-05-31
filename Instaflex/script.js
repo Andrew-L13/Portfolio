@@ -1,4 +1,4 @@
-let time = 4000,
+let time = 3000,
     currentImageIndex = 0,
     images = document.querySelectorAll(".bg img"),
     max = images.length;
