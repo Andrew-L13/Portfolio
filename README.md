@@ -9,5 +9,5 @@
 		Focus in manipulation of contents for adjust in most screens.
 		Web responsive is future 🚀
 	• Parking
-		This folder contain one application web developed in HTML and JavaScript, this objective is show about
-		advantages in use TypeScript for simplify your code! ⚡
+		This folder contain one application web developed in HTML and JavaScript, this objective is show
+		about advantages in use TypeScript for simplify your code! ⚡
